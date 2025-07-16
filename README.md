@@ -22,7 +22,7 @@ If the 9th boss drops a mount, I invite you to a lockout where the first 8 bosse
 
 ### 🔍 Optional Commands
 
-- **Normal Mode:** `!normal` or `!nhc` (default)  
+- **Normal Mode:** `!normal` or `!nm` (default)  
 - **Heroic Mode:** `!heroic` or `!hc`
 
 ### 👥 After Entering the Instance
